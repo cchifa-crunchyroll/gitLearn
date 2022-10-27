@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 B1 text
+=======
+Branch1 text user2
+Branch1 text user 1
+>>>>>>> 482b5f1 (rebase with log)
