@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 B1 text
 =======
 Branch1 text user2
@@ -8,3 +9,7 @@ Branch1 text user 1
 =======
 B1 edit text user0
 >>>>>>> c5d6f88 (b1 user0 edit)
+=======
+B1 edit text user0
+B1 edit
+>>>>>>> 30b0774 (cherry picked)
