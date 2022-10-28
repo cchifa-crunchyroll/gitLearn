@@ -1,0 +1,2 @@
+User0 edit text
+User1 edit file and move to folder2
